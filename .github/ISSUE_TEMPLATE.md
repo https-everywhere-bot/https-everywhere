@@ -3,7 +3,7 @@
 [//]: #
 [//]: # (Please help us by following this issue template.)
 [//]: # (You can delete all blank lines and all lines starting)
-[//]: # (with the comment markers, such as this one.)
+[//]: # (with the comment marker, such as this one.)
 [//]: #
 [//]: # (Delete all but one of the following "Type" lines.)
 [//]: # (Leave in the line that best describes the issue you are reporting.)
@@ -16,12 +16,14 @@ Type: other
 
 [//]: # (If you are reporting a ruleset/website problem, include the top-level)
 [//]: # (domain below. For example, if you want to report an issue about)
-[//]: # ("one.example.com" and "two.example.com", then the line below should be:)
+[//]: # ("one.example.com" and "two.example.com", then the line below should)
+[//]: # (be:)
 [//]: #
 [//]: # (Domain: example.com)
 [//]: #
-[//]: # (If you are only reporting an issue about "one.example.com", then the)
-[//]: # (line below should be:)
+[//]: # (Be sure to remove the parenthesis and comment marker.  If you are only)
+[//]: # (reporting an issue about "one.example.com", then the line below should)
+[//]: # (be:)
 [//]: #
 [//]: # (Domain: one.example.com) 
 [//]: #
