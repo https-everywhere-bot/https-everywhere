@@ -3,7 +3,7 @@
 [//]: #
 [//]: # (Please help us by following this issue template.)
 [//]: # (You can delete all blank lines and all lines starting)
-[//]: # (with the comment markers.)
+[//]: # (with the comment markers, such as this one.)
 [//]: #
 [//]: # (Delete all but one of the following "Type" lines.)
 [//]: # (Leave in the line that best describes the issue you are reporting.)
